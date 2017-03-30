@@ -1,0 +1,134 @@
+body
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
+p
+{
+	margin: 6% 10% 5% 10%;
+}
+h1.second
+{
+	font-family: "Georgia", serif;	
+	font-size: 80px;
+}
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+li 
+{
+	display: in-line;
+	float: left;
+}
+li a
+{
+	display:block;
+	text-align: center;
+	padding: 6px 6px;
+	text-decoration: none;
+}
+/* change the link color on hover */
+li a:hover{
+	background-color: #4db8ff;
+}
+img.first
+{
+	float: right;
+	margin: 0px 0px 10px 10px;
+}
+table,th,tr,td.first
+{
+	margin: auto;
+}
+table img
+{
+	height: 300px;
+	width: auto;
+}
+img.second
+{
+	height: auto;
+	width: 300px;
+	padding: 5% 30% 5% 30%
+}
+img.third
+{
+	height: 350px;
+	width: 300px;
+	padding: 1% 1% 1% 1%;
+	border: 5px solid black;
+	margin: auto;
+	display: block;
+}
+h1
+{
+	font-family: "Verdana", sans-serif;
+	font-size: 60px;
+	padding: 3% 3% 4% 5%;
+	text-align: center;
+}
+h2
+{
+	font-family: "Verdana", sans-serif;
+	font-size: 30px;
+	padding: 3% 3% 4% 5%;
+}
+h3
+{
+	font-family: "Verdana", sans-serif;
+	font-size: 30px;
+	padding: 3% 5% 4% 5%;
+}
+h4
+{
+	font-family: "Verdana", sans-serif;
+	font-size: 30px;
+	padding: 3% 5% 4% 5%;
+}
+h5
+{
+	font-family: "Verdana", sans-serif;
+	font-size: 30px;
+	padding: 3% 5% 4% 5%;
+}
+h6
+{
+	font-family: "Verdana", sans-serif;
+	font-size: 50px;
+	padding: 3% 5% 4% 5%;
+}
+a
+{ 
+	padding: 0% 5% 4% 7%;
+}
+a.second
+{
+	padding: 0% 0% 0% 10%;
+}
+a.third
+{
+	padding: 0% 0% 0% 0%;
+}
+img.fourth
+{
+	height: auto;
+	width: 600px;
+	margin: auto;
+	display: block;
+}
+li.second
+{
+	margin:auto;
+	padding: 2% 2% 2% 2%
+}
+h2.second
+{
+	font-family: "Verdana", sans-serif;
+	font-size: 60px;
+	padding: 3% 3% 4% 5%;
+	text-align: center;
+}
